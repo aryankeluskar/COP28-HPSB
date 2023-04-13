@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Livvic:wght@500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+body {
+    margin: 0;
+}
+
+div#first {
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    margin: 0;
+}
+
+div#second,
+table#t2,
+div#third {
+    height: 90vh;
+    width: 100%;
+    margin: 0;
+    background-color: #FCFFEB;
+}
+
+td#t21 {
+    width: 50vw;
+    background-image: url("./firstbg.webp");
+}
+
+p#p2title {
+    font-family: 'Livvic', sans-serif;
+    font-size: 2.3em;
+    padding-left: 3vw;
+    font-weight: 900;
+    margin: 0;
+}
+
+p#p2header {
+    color: #73ac6f;
+    font-size: 1.5em;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 900;
+    padding-left: 3vw;
+    margin: 0;
+}
+
+p#p2body {
+    color: #000000;
+    font-size: 1.1em;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 100;
+    padding-left: 3vw;
+    padding-right: 6vw;
+    margin: 0;
+}
+
+td#t32 {
+    width: 50vw;
+    height: 90vh;
+    background-image: url('./new\ 3bg.png');
+    background-size: cover;
+}
+
+td#t31 {
+    width: 50vw;
+    height: 90vh;
+}
+
+
+p#p3title {
+    font-family: 'Livvic', sans-serif;
+    font-size: 2.3em;
+    padding-left: 3vw;
+    font-weight: 900;
+    margin: 0;
+    width: 30vw;
+    padding-bottom: 5vh;
+}
+
+p#p31title {
+    color: #73ac6f;
+    font-size: 1.2em;
+    font-weight: 700;
+    font-family: 'Livvic', sans-serif;
+    margin: 0;
+    padding-left: 1.5vw;
+}
+
+
+p#p31body {
+    padding-left: 1.5vw;
+    color: #000000;
+    font-size: 1.1em;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 100;
+    padding-right: 6vw;
+    margin: 0;
+    padding-bottom: 2vh;
+}
+
+div#iconWrapper {
+    background: #73ac6f;
+    color: white;
+    width: 5vw;
+    height: 5vw;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    display: table-cell;
+    vertical-align: middle;
+    padding-right: 0;
+    margin-right: 3vw;
+    font-size: 2vw;
+}
+
+table#tt3{
+    padding-left: 2vw;
+}
+
+td#t41{
+    width: 50vw;
+    height: 90vh;
+    background-image: url("./bg4.png");
+    background-size: cover;
+}
+
+div#fourth{
+    margin: 0;
+    
+    background-color: #FCFFEB;
+}
+
+div#quote4{
+    background: #73ac6f;
+    padding: 1.5em;
+    padding-left: 2vw;
+    color: white;
+    font-family: 'Livvic', sans-serif;
+    margin-left: 2.3vw;
+    font-weight: 500;
+} 
