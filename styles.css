@@ -14,7 +14,8 @@ div#first {
 
 div#second,
 table#t2,
-div#third {
+div#third,
+div#sixth {
     height: 90vh;
     width: 100%;
     margin: 0;
@@ -23,7 +24,7 @@ div#third {
 
 td#t21 {
     width: 50vw;
-    background-image: url("./firstbg.webp");
+    background-image: url("./bg2.png");
 }
 
 p#p2title {
@@ -112,29 +113,84 @@ div#iconWrapper {
     font-size: 2vw;
 }
 
-table#tt3{
+table#tt3 {
     padding-left: 2vw;
 }
 
-td#t41{
+td#t41 {
     width: 50vw;
     height: 90vh;
     background-image: url("./bg4.png");
     background-size: cover;
 }
 
-div#fourth{
+div#fourth {
     margin: 0;
-    
     background-color: #FCFFEB;
 }
 
-div#quote4{
+div#quote4 {
+    text-align: center;
     background: #73ac6f;
     padding: 1.5em;
     padding-left: 2vw;
     color: white;
     font-family: 'Livvic', sans-serif;
     margin-left: 2.3vw;
-    font-weight: 500;
-} 
+    font-weight: 700;
+    width: 30vw;
+    font-size: 1.2em;
+}
+
+
+
+
+td#t52 {
+    width: 50vw;
+    height: 90vh;
+    background-image: url("./bg5.png");
+    background-size: cover;
+}
+
+td#td62 {
+    height: 90vh;
+    width: 85vw;
+}
+
+td#td61 {
+    width: 10vw;
+    background-image: url("./bg6.png");
+    background-size: cover;
+}
+
+p#p6title {
+    font-family: 'Livvic', sans-serif;
+    font-size: 2.3em;
+    padding-left: 3vw;
+    font-weight: 900;
+    margin: 0;
+}
+
+p#copyear {
+    color: #73ac6f;
+    font-size: 2em;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 900;   
+    margin: 0;
+}
+
+p#copname {
+    color: #000000;
+    font-size: 2em;
+    font-family: 'Livvic', sans-serif;
+    font-weight: 700;
+    margin: 0;
+}
+
+img#coppic {
+    height: 40vh;
+}
+
+td#td661 {
+    padding-left: 3vw;
+}
